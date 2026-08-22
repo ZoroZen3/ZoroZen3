@@ -1,352 +1,515 @@
-# ⚡ MD SAEED HASAN ANSARI
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;M.Tech+Embedded+Systems+Student;Edge+AI+%7C+TinyML+%7C+IoT;STM32+%7C+ARM+%7C+RTOS;Building+Intelligent+Embedded+Systems" />
-</p>
+# ZOROZEN3
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+### Engineering the boundary between **software and the physical world.**
 
-<p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-0A192F?style=for-the-badge&logo=arduino&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/ARM-Cortex--M-red?style=for-the-badge&logo=arm"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics"/>
-  <img src="https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge"/>
-</p>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=8AB4F8&center=true&vCenter=true&width=720&lines=Embedded+Systems+Engineer+in+Progress;Software+Developer;Edge+AI+%7C+TinyML+%7C+IoT;STM32+%7C+ARM+%7C+RTOS;Building+systems%2C+not+just+code."/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Embedded-0B0F14?style=flat-square&logo=arm&logoColor=8AB4F8"/>
+<img src="https://img.shields.io/badge/Software-0B0F14?style=flat-square&logo=codeforces&logoColor=8AB4F8"/>
+<img src="https://img.shields.io/badge/Edge_AI-0B0F14?style=flat-square&logo=tensorflow&logoColor=8AB4F8"/>
+<img src="https://img.shields.io/badge/IoT-0B0F14?style=flat-square&logo=arduino&logoColor=8AB4F8"/>
+
+<br><br>
+
+<a href="https://github.com/ZoroZen3">
+<img src="https://komarev.com/ghpvc/?username=ZoroZen3&label=PROFILE%20VIEWS&color=8AB4F8&style=flat-square"/>
+</a>
+
+</div>
 
 ---
 
-## 🧬 `whoami`
+<div align="center">
+
+## THE IDEA
+
+### `Hardware × Software × Intelligence`
+
+<br>
+
+I build systems where **code doesn't just run on a computer — it interacts with the real world.**
+
+</div>
+
+<br>
 
 ```text
-> Initializing developer profile...
-
-Name        : MD Saeed Hasan Ansari
-Role        : M.Tech Embedded Systems Student
-Focus       : Embedded Systems • Edge AI • TinyML • IoT
-Core        : ARM • STM32 • RTOS • Communication Protocols
-Languages   : C • C++ • Python • JavaScript
-Currently   : Building intelligent systems at the edge
-
-> System initialized successfully ✓
+                 ┌──────────────────────┐
+                 │       SOFTWARE       │
+                 │                      │
+                 │  Python • C/C++      │
+                 │  JavaScript • APIs   │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │      EMBEDDED        │
+                 │                      │
+                 │ STM32 • ARM • RTOS   │
+                 │ Sensors • Drivers    │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │     INTELLIGENCE     │
+                 │                      │
+                 │ TinyML • Edge AI     │
+                 │ Signal Processing    │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │     REAL WORLD       │
+                 │                      │
+                 │ Machines • Devices   │
+                 │ People • Environment │
+                 └──────────────────────┘
 ```
 
-I'm passionate about building **intelligent, real-time and resource-efficient embedded systems**.
+---
 
-My current interests revolve around:
+# 01 — ABOUT
+
+I'm **Saeed Hasan Ansari**, an M.Tech Embedded Systems student interested in the complete engineering stack — from **microcontrollers and electronics to software, cloud-connected systems and AI**.
+
+I enjoy understanding how things work at the lowest level while also building the software that makes those systems useful.
+
+### Currently focused on
+
+* Embedded Systems
+* STM32 & ARM Cortex-M
+* Real-Time Operating Systems
+* Embedded C / C++
+* Software Engineering
+* Python & JavaScript
+* IoT & Connected Devices
+* TinyML & Edge AI
+* System Architecture
+
+> **My goal is simple: build technology that is efficient, intelligent and useful.**
+
+---
+
+# 02 — THE STACK
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php"/>
+
+<br><br>
+
+### SOFTWARE
+
+<img src="https://skillicons.dev/icons?i=html,css,flutter,mysql,firebase,docker,git,github"/>
+
+<br><br>
+
+### EMBEDDED
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux"/>
+
+</div>
+
+<br>
+
+### Embedded
+
+```text
+STM32       ARM Cortex-M       FreeRTOS
+UART        SPI               I²C
+CAN         GPIO              PWM
+ADC         Timers            Interrupts
+DMA         Sensors           Communication
+```
+
+### Software
+
+```text
+Python      JavaScript        PHP
+REST APIs   MySQL             Flutter
+Git         Docker            Linux
+```
+
+### Exploring
+
+```text
+TinyML      Edge AI           Embedded Linux
+MQTT        Computer Vision   System Design
+```
+
+---
+
+# 03 — WHAT I BUILD
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### ⚙️ EMBEDDED SYSTEMS
+
+<br>
+
+Low-level software
+Microcontrollers
+Device drivers
+Sensors
+Communication protocols
+Real-time applications
+
+</td>
+
+<td width="50%" align="center">
+
+### 💻 SOFTWARE
+
+<br>
+
+Web applications
+Backend systems
+APIs
+Databases
+Automation
+Cross-platform applications
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🧠 EDGE INTELLIGENCE
+
+<br>
+
+TinyML
+Machine learning on MCUs
+Signal processing
+On-device inference
+Resource optimization
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌐 CONNECTED SYSTEMS
+
+<br>
+
+IoT
+MQTT
+Cloud connectivity
+Monitoring dashboards
+Device-to-server communication
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 04 — SELECTED PROJECTS
+
+> A collection of systems I'm building, studying and experimenting with.
+
+<br>
+
+### `01` — Intelligent Embedded Systems
+
+**STM32 · ARM · Sensors · TinyML**
+
+Designing embedded systems capable of collecting sensor data, processing it locally and making decisions without depending entirely on the cloud.
+
+```text
+Sensors
+   ↓
+STM32
+   ↓
+Signal Processing
+   ↓
+TinyML / Logic
+   ↓
+Decision
+   ↓
+Action
+```
+
+---
+
+### `02` — Smart Building Systems
+
+**Embedded · IoT · Automation · Software**
+
+Exploring intelligent building management using distributed sensors, embedded controllers and software dashboards.
+
+```text
+ ┌─────────┐
+ │ Sensors │
+ └────┬────┘
+      ↓
+ ┌───────────┐
+ │ Edge Node │
+ └─────┬─────┘
+       ↓
+ ┌────────────┐
+ │ Processing │
+ └──────┬─────┘
+        ↓
+ ┌────────────┐
+ │ Automation │
+ └──────┬─────┘
+        ↓
+ ┌────────────┐
+ │ Dashboard  │
+ └────────────┘
+```
+
+---
+
+### `03` — Software Systems
+
+**Python · JavaScript · PHP · MySQL**
+
+Building practical software solutions with a focus on:
+
+* clean architecture
+* database design
+* automation
+* responsive interfaces
+* API integration
+* maintainability
+
+---
+
+### `04` — Connected Devices
+
+**STM32 · IoT · MQTT · Cloud**
+
+Experimenting with architectures that connect physical devices to software platforms.
+
+```text
+DEVICE
+   │
+   │ MQTT / HTTP
+   ▼
+BACKEND
+   │
+   ▼
+DATABASE
+   │
+   ▼
+DASHBOARD
+```
+
+---
+
+# 05 — ENGINEERING MINDSET
+
+<div align="center">
+
+### I don't start with the technology.
+
+### I start with the problem.
+
+<br>
+
+**Problem**
+
+↓
+
+**Understand**
+
+↓
+
+**Design**
+
+↓
+
+**Build**
+
+↓
+
+**Measure**
+
+↓
+
+**Optimize**
+
+↓
+
+**Deploy**
+
+</div>
+
+<br>
+
+This approach allows me to move comfortably between **hardware, firmware and software** instead of treating them as isolated worlds.
+
+---
+
+# 06 — CURRENTLY BUILDING
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2800&pause=900&color=8AB4F8&center=true&vCenter=true&width=650&lines=Learning+STM32+at+the+register+%26+HAL+level;Exploring+RTOS+architecture;Building+IoT+systems;Experimenting+with+TinyML;Improving+software+engineering+skills;Designing+complete+embedded+systems"/>
+
+</div>
+
+<br>
 
 ```text
 ┌─────────────────────────────────────────────┐
 │                                             │
-│   ⚙️  Embedded Systems                      │
-│   🧠  TinyML & Edge AI                      │
-│   📡  IoT & Communication Protocols         │
-│   🛰️  Real-Time Operating Systems           │
-│   🔬  Embedded Research                     │
-│   🤖  Intelligent Automation                 │
+│  STM32 / ARM Cortex-M          ██████████   │
+│  RTOS                         ████████░░   │
+│  Embedded C/C++               █████████░   │
+│  Communication Protocols      ████████░░   │
+│  Python / Software            █████████░   │
+│  IoT                          ███████░░░   │
+│  TinyML / Edge AI             ██████░░░░   │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🚀 Tech Arsenal
+# 07 — GITHUB
 
-### 💻 Programming
+<div align="center">
 
-<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ZoroZen3&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=8AB4F8&icon_color=8AB4F8&text_color=9CA3AF&count_private=true&include_all_commits=true"/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoroZen3&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=8AB4F8&text_color=9CA3AF&langs_count=8"/>
 
-</p>
+</div>
 
-### ⚙️ Embedded
+<br>
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://streak-stats.demolab.com?user=ZoroZen3&theme=transparent&hide_border=true&ring=8AB4F8&fire=8AB4F8&currStreakLabel=8AB4F8"/>
 
-</p>
+</div>
 
-**Currently working with**
+---
+
+# 08 — ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoroZen3&bg_color=00000000&color=8AB4F8&line=8AB4F8&point=FFFFFF&area=true&hide_border=true&custom_title=Development%20Activity"/>
+
+</div>
+
+---
+
+# 09 — CONTRIBUTION
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+# 10 — ROADMAP
+
+<div align="center">
 
 ```text
-STM32        ███████████████████░  Advanced
-ARM Cortex   ██████████████████░░  Advanced
-RTOS         ███████████████░░░░░  Intermediate
-UART         ███████████████████░  Advanced
-SPI          █████████████████░░░  Advanced
-I²C          █████████████████░░░  Advanced
-CAN          ███████████████░░░░░  Intermediate
-MQTT         ██████████████░░░░░░  Intermediate
-TinyML       █████████████░░░░░░░  Learning
+                    2026
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+        ▼             ▼             ▼
+    EMBEDDED       SOFTWARE       AI/ML
+        │             │             │
+      STM32         Python        TinyML
+      RTOS          APIs          Edge AI
+      ARM           Backend       Signal
+      CAN           Systems       Processing
+        │             │             │
+        └─────────────┼─────────────┘
+                      │
+                      ▼
+                 SYSTEM DESIGN
+                      │
+                      ▼
+                REAL PRODUCTS
 ```
 
-### 🛠️ Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,flutter,firebase,mysql" />
-
-</p>
+</div>
 
 ---
 
-# 🧠 What I'm Currently Exploring
+# 11 — PHILOSOPHY
 
-<p align="center">
+<div align="center">
 
-```text
-             ┌───────────────┐
-             │   SENSOR DATA │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   STM32 MCU   │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   TinyML      │
-             │   MODEL       │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   EDGE        │
-             │   DECISION    │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │ CLOUD / IoT   │
-             └───────────────┘
-```
+## `Make it work.`
 
-</p>
+### `Make it reliable.`
 
-### 🔬 Current Research Interests
+### `Make it efficient.`
 
-* 🧠 TinyML on resource-constrained MCUs
-* ⚡ Energy-efficient embedded AI
-* 📡 IoT communication systems
-* 🛰️ Real-time embedded systems
-* 🤖 Edge AI
-* 🔧 Smart Building Management Systems
-* 📊 Intelligent monitoring and automation
+### `Then make it beautiful.`
+
+<br>
+
+> **The best systems disappear into the experience.**
+
+</div>
 
 ---
 
-# 🔥 Featured Projects
+# 12 — LET'S CONNECT
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🧠 Edge AI System
+I'm always interested in discussing:
 
-**TinyML-based intelligent embedded system**
+**Embedded Systems · Software · IoT · Edge AI · Open Source · Research**
 
-```text
-STM32
-  ↓
-Sensor
-  ↓
-Signal Processing
-  ↓
-TinyML
-  ↓
-Real-Time Decision
-```
+<br>
 
-</td>
-
-<td width="50%">
-
-### 🏢 Smart Building Management
-
-**Intelligent Building Monitoring System**
-
-```text
-Sensors
-   ↓
-Edge Controller
-   ↓
-Data Processing
-   ↓
-Automation
-   ↓
-Dashboard
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚗 CAN-Based Embedded System
-
-Automotive communication and monitoring using:
-
-`CAN` `STM32` `ARM` `RTOS`
-
-</td>
-
-<td width="50%">
-
-### 📡 IoT Monitoring Platform
-
-Real-time embedded monitoring using:
-
-`MQTT` `Sensors` `ESP32/STM32` `Cloud`
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZoroZen3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoroZen3&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 My Contribution Journey
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-# 📈 My Development Philosophy
-
-```text
-                 ┌───────────────────────┐
-                 │       LEARN           │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       BUILD           │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       TEST            │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       OPTIMIZE        │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       DEPLOY          │
-                 └───────────────────────┘
-```
-
-> **"Don't just make it work. Make it efficient, reliable and intelligent."**
-
----
-
-# 🎯 2026 Goals
-
-```text
-[████████████████████░░] Master STM32
-[███████████████░░░░░░] Master RTOS
-[██████████████░░░░░░░] TinyML
-[████████████░░░░░░░░░] Edge AI
-[███████████░░░░░░░░░░] Embedded Research
-[█████████░░░░░░░░░░░░] Publish Research Paper
-[███████░░░░░░░░░░░░░░] Build Production-Level Projects
-```
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ZoroZen3">
+<img src="https://img.shields.io/badge/GitHub-ZoroZen3-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<br><br>
 
-# 💡 Developer Mode
+<div align="center">
 
-```bash
-$ sudo start embedded_engineer
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1200&color=8AB4F8&center=true&vCenter=true&width=600&lines=Build+with+curiosity.;Engineer+with+purpose.;Keep+learning."/>
 
-Loading skills.................... ████████████████ 100%
-Initializing ARM.................. ████████████████ 100%
-Initializing STM32................ ████████████████ 100%
-Loading RTOS...................... ███████████████░  95%
-Loading TinyML.................... █████████████░░░  85%
-Connecting sensors................ ████████████████ 100%
+<br><br>
 
-SYSTEM STATUS: ONLINE 🟢
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24"/>
 
-> Ready to build the future.
-```
-
----
-
-<p align="center">
-
-### ⚡ Build. Break. Learn. Repeat. ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=120&section=footer&animation=fadeIn"/>
-
-</p>
-
-<p align="center">
-  <sub>Made with ❤️, curiosity and lots of debugging.</sub>
-</p>
+</div>
